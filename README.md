@@ -6,7 +6,7 @@ Pre-Work Submission for Kenny
 ### App Walk-though
 
 
-<img src="https://imgur.com/a/9JvhP16" alt="KT prework" width=200>
+<img src="https://i.imgur.com/r5b1gNK.gif" width=200>
 
 
 ### Required User Stories
